@@ -1,3 +1,4 @@
+#user imputs sides of a triangle and code prints if it is a right angle triangle or not
 import math #for math.sqrt
 def right_angle_triangle_check():
     a = float(input('Enter shortest length: '))
