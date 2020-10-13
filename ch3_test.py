@@ -1,3 +1,4 @@
+#calculates total amount of rabbits over a specified time based on begining number of rabbits input by user
 while True:
     rabbits = int(input('enter num of rabbits:'))
     years = 4
