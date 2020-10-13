@@ -1,3 +1,4 @@
+#basic sequences with while loops for chapter 3 excersize
 ch = 12
 x = 0
 print('1st sequence:')
