@@ -20,7 +20,6 @@ def fib_to(x):
     return results
 
 while True:
-    while True:
     try:
         print(fib_to(int(input('Enter number to generate Fib: '))))
     except:

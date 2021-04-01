@@ -1,6 +1,3 @@
-#user inputs radius and x y plot for 2 circle
-#tests if the circles overlap, their center point distances, and how far they overlap or how far the are from touching
-
 import math
 def overlapping_circles():
     c1x = float(input('Enter x for circle 1: '))

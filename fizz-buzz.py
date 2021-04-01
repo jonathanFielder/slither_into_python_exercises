@@ -1,4 +1,4 @@
-def fizz_buzz(): #poorly executed fizz-buzz logic
+def fizz_buzz():
     x = 1
     total = 100
     while x <= total:
@@ -14,7 +14,7 @@ def fizz_buzz(): #poorly executed fizz-buzz logic
 
 
 
-def fizz_buzz_1(): #less poorly executed fizz-buzz logic
+def fizz_buzz_1():
     x = 1
     total = 100
     div1 = 3
